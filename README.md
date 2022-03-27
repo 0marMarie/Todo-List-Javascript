@@ -16,4 +16,4 @@ To get started just open index.html file
 
 ## 📸 Screenshot from the Todo List
 
-![Screenshot](UI.png)
+![Screenshot](screen.png)
